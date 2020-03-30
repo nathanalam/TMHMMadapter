@@ -1,0 +1,1 @@
+export PATH=$HOME/Research/TMHMM/tmhmm-2.0c/bin$PATH
