@@ -1,1 +1,3 @@
 export PATH=$HOME/Research/TMHMM/tmhmm-2.0c/bin$PATH
+
+cat test.fasta | tmhmm-2.0c/bin/tmhmm

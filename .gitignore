@@ -3,6 +3,5 @@ include/
 lib/
 lib64
 share
-tmhmm-2.0c
 pyvenv.cfg
 *.fasta

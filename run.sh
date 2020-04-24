@@ -1,0 +1,1 @@
+django-admin runserver --pythonpath="." --settings=server 50.116.48.39:5000
